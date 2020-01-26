@@ -72,8 +72,7 @@ def compareSorts(myList, n):
     print ("Count sort: " + str(n) + " ints in " + str(end - start))
     #print(sortList)
 
-
 if __name__=="__main__":
-    n = 1000
+    n = 10
     myList = create.createRandomIntList(n)
     compareSorts(myList, n)
