@@ -1,5 +1,5 @@
 # Pokemon Data
-Finding the strongest :cat: Pokemon and Pokemon team
+Finding the strongest Pokemon and Pokemon team
 
 ## Results found
 The strongest Pokemon is:
