@@ -2,11 +2,8 @@
 Finding the strongest Pokemon and Pokemon team
 
 ## Results found
-The strongest Pokemon is:
-- **Mewtwo**
-
-The strongest Pokemon team is:
-- **Mew**
+The strongest Pokemon is:- **Mewtwo**
+The strongest Pokemon team is:- **Mew**
 - **Mewtwo**
 - **Golem**
 - **Sandslash**
