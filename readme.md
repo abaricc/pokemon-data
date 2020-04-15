@@ -13,5 +13,5 @@ Strongest Pokemon team:
 - **Graveler**
 - **Machamp**
 
-Take a look at the full [report](https://github.com/bariabbassi/pokemon-data/pokemon_data_report.pdf).
+Take a look at the full [report](https://github.com/bariabbassi/pokemon-data/blob/master/pokemon_data_report.pdf).
 
